@@ -1,0 +1,1 @@
+pyminify parser.src.py > parser.py
